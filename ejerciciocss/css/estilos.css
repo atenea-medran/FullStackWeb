@@ -2,3 +2,25 @@ h1 {
     /* pongo el color en rojo*/
     color : red;
 }
+
+h2 {
+    /* pongo el color en azul*/
+    color : blue;
+}
+
+p, li {
+    /* pongo el color en verde*/
+    color : green;
+}
+
+a:link {
+    color : blue;
+}
+
+a:visited {
+    color : red;
+}
+
+a:hover {
+    text-decoration: none;
+}
