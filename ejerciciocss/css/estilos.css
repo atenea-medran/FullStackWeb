@@ -88,7 +88,7 @@ ol {
 }
 
 ol li {
-    font-size: 48px;
+    font-size: 8px;
 }
 
 ul li {
@@ -99,3 +99,40 @@ ul li {
 #otroid{
     color: salmon;
 }
+
+#textoprincipal{
+    width: 350px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+}
+
+#listadesordenada{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 15px solid red;
+}
+
+.caja1 {
+    border: 5px solid red;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 25px;
+    width: 250px;
+    height: 200px;
+}
+
+.caja2 {
+    border: 7px solid green;
+    background-color: gray;
+    padding: 5px;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 300px;
+    height: 200px;
+    color: white;
+}
+    
